@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/9b25096a-8857-41a2-ae7d-07d7e4b0e94e)# TaleTutor
+# TaleTutor
 ### An educational platform revolutionizing learning with AI-driven narratives. Personalized lessons, movie-themed experiences, and fictional examples based on real-world principles make learning engaging
 ## Video Tutorial
 
