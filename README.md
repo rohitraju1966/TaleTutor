@@ -1,6 +1,7 @@
 # TaleTutor
 ### An educational platform revolutionizing learning with AI-driven narratives. Personalized lessons, movie-themed experiences, and fictional examples based on real-world principles make learning engaging
 
+Video Tutorial
 [![TaleTutor Demo](https://img.youtube.com/vi/jX9IUWnVgH0/0.jpg)](https://www.youtube.com/watch?v=jX9IUWnVgH0)
 
 ## 🌟 Inspiration
